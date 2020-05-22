@@ -1,0 +1,27 @@
+1. focus on feature engineering and data preparation as the biggest task in ds process
+2. focus on identifying the signal and minimise noise
+3. simplify process and tools when possible. Einstein- "everything must be made as simple as possible, but not simpler."
+
+
+"To build models with ease, use decison trees"
+
+Take unsupervised clusters as feature in supervised model.
+
+Consider each feature as model on its own
+
+Leakage- previous campaigns.
+
+Target mean encoding
+
+Identify stakeholders, work with them from the beginning.
+Don't try to sell a product- develop it when already sold.
+
+Undersampling the majority class
+
+Create a model to redict missing values
+
+Replace blood pressure with 0
+
+rule induction
+
+
